@@ -14,15 +14,15 @@
 # 我们现在招聘吗？
 
 是的，我们现在开放了以下工程师岗位:
-* [监控平台前端工程师](jobs/frontend-engineer-monitoring.md)
 * [系统架构师](jobs/architect.md)
-* [测试工程高级工程师](jobs/senior-engineer-testing.md)
-* [测试工程前端工程师](jobs/frontend-engineer-testing.md)
 * [消息中间件 Tech Lead](jobs/tech-lead-message-queue.md)
+* [测试工程高级工程师](jobs/senior-engineer-testing.md)
 * [消息中间件高级工程师](jobs/senior-engineer-message-queue.md)
 * [前端架构工程师](jobs/frontend-engineer-architecture.md)
+* [监控平台前端工程师](jobs/frontend-engineer-monitoring.md)
+* [测试工程前端工程师](jobs/frontend-engineer-testing.md)
 
-此外我们还有一些产品经历岗位:
+此外我们还有一些产品经理岗位:
 * [监控平台高级产品经理](jobs/pm-monitoring.md)
 
 # 在我们的团队你要做什么?
