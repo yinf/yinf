@@ -17,7 +17,7 @@
 * [消息中间件 Tech Lead](jobs/tech-lead-message-queue.md)
 * [测试工程高级工程师](jobs/senior-engineer-testing.md)
 * [消息中间件高级工程师](jobs/senior-engineer-message-queue.md)
-* [工程效率工程师](jobs/engineer-engineering.md)
+* [工程效率工程师 / 实习生](jobs/engineer-engineering.md)
 * [前端架构工程师](jobs/frontend-engineer-architecture.md)
 * [监控平台前端工程师](jobs/frontend-engineer-monitoring.md)
 * [测试工程前端工程师](jobs/frontend-engineer-testing.md)
