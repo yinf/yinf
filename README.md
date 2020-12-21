@@ -18,6 +18,7 @@
 * [前端工程 Tech Lead](jobs/tech-lead-frontend-engineering.md)
 * [测试工程高级工程师](jobs/senior-engineer-testing.md)
 * [消息中间件高级工程师](jobs/senior-engineer-message-queue.md)
+* [服务治理高级工程师](jobs/senior-engineer-service-governance.md)
 * [工程效率工程师 / 实习生](jobs/engineer-engineering.md)
 * [工程效率前端工程师](jobs/frontend-engineer-engineering.md)
 * [前端架构工程师](jobs/frontend-engineer-architecture.md)
