@@ -15,6 +15,7 @@
 是的，我们现在开放了以下工程师岗位:
 * [系统架构师](jobs/architect.md)
 * [消息中间件 Tech Lead](jobs/tech-lead-message-queue.md)
+* [前端工程 Tech Lead](jobs/tech-lead-frontend-engineering.md)
 * [测试工程高级工程师](jobs/senior-engineer-testing.md)
 * [消息中间件高级工程师](jobs/senior-engineer-message-queue.md)
 * [工程效率工程师 / 实习生](jobs/engineer-engineering.md)
