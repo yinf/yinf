@@ -18,12 +18,13 @@
 * [前端工程 Tech Lead](jobs/tech-lead-frontend-engineering.md)
 * [测试工程工程师](jobs/engineer-testing.md)
 * [消息中间件工程师](jobs/engineer-message-queue.md)
-* [服务治理工程师 / 实习生](jobs/engineer-service-governance.md)
-* [工程效率工程师 / 实习生](jobs/engineer-engineering.md)
+* [服务治理工程师 / 实习工程师](jobs/engineer-service-governance.md)
+* [工程效率工程师 / 实习工程师](jobs/engineer-engineering.md)
 * [工程效率前端工程师](jobs/frontend-engineer-engineering.md)
 * [前端架构工程师](jobs/frontend-engineer-architecture.md)
 * [监控平台前端工程师](jobs/frontend-engineer-monitoring.md)
 * [测试工程前端工程师](jobs/frontend-engineer-testing.md)
+* [监控平台实习工程师](jobs/intern-engineer-monitoring.md)
 
 此外我们还有一些产品经理岗位:
 * [监控平台高级产品经理](jobs/pm-monitoring.md)
