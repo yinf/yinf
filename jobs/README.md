@@ -30,4 +30,4 @@
 
 # 简历投递
 
-简历请发给宋亚楠同学 (songyn@fenbi.com)，她是我们团队的 HRBP。
+简历请发给宋亚楠 (songyn@fenbi.com)，她是我们团队的 HRBP。
