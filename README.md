@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yfdinfra/team/main/assets/logo-compressed.png" alt="YINF Logo" style="max-height: 88px">
+<img src="https://raw.githubusercontent.com/yfdinfra/team/main/assets/logo-compressed.png" alt="YINF Logo" height="88px">
 
 猿辅导是一家在线教育公司，通过技术让学习更加高效，给不同地区的学生提供平等的学习机会。公司创建于 2012 年，经过多年的建设，目前公司内有猿辅导、斑马 AI 课、猿题库、 小猿搜题、小猿口算、猿编程等多个教育产品。公司最近一轮融资后估值 155 亿美金，是全球估值最高的在线教育独角兽公司。
 
