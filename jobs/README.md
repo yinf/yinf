@@ -7,6 +7,7 @@
 * [消息中间件工程师](engineer-message-queue.md)
 * [服务治理工程师 / 实习工程师](engineer-service-governance.md)
 * [工程效率工程师 / 实习工程师](engineer-engineering.md)
+* [监控平台高级工程师](senior-engineer-monitoring.md)
 * [工程效率前端工程师](frontend-engineer-engineering.md)
 * [前端架构工程师](frontend-engineer-architecture.md)
 * [监控平台前端工程师](frontend-engineer-monitoring.md)
