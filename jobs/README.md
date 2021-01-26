@@ -31,4 +31,4 @@
 
 # 简历投递
 
-简历请发给宋亚楠 (songyn@fenbi.com)，她是我们团队的 HRBP。
+发邮件到 perfectworks(at)gmail.com。
