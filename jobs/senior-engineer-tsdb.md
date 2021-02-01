@@ -1,6 +1,6 @@
 # TSDB 高级工程师
 
-[TSDB](https://en.wikipedia.org/wiki/Time_series_database) 正在改变业务的形态。在猿辅导，我们通过 Prometheus 和 Thanos 实现的监控系统实现了上万个实例、几十亿 TimeSeries 的存储与查询能力。在将来，我们希望对这个架构进行调整，单独组建一个团队去建设一套高性能、高可靠性的分布式时序数据库。我们希望它是:
+[TSDB](https://en.wikipedia.org/wiki/Time_series_database) 正在改变业务的形态。在猿辅导，我们通过 Prometheus 和 Thanos 实现的监控系统实现了上万个实例、上亿 TimeSeries 的存储与查询能力。在将来，我们希望对这个架构进行调整，单独组建一个团队去建设一套高性能、高可靠性的分布式时序数据库。我们希望它是:
 * 超高性能，集群支持十亿级别 TimeSeries 存储与查询。
 * 可靠、简单的水平扩展能力。
 * 强大的基础功能，例如自动降采样、多租户隔离、数据治理能力。
