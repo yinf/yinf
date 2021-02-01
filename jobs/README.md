@@ -16,6 +16,7 @@
 * [监控平台高级工程师](senior-engineer-monitoring.md)
 * [监控平台实习工程师](intern-engineer-monitoring.md)
 * [API 网关高级工程师](senior-engineer-api-gateway.md)
+* [TSDB 高级工程师](senior-engineer-tsdb.md)
 
 我们还有一些产品经理岗位:
 * [监控平台高级产品经理](pm-monitoring.md)
