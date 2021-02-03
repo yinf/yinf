@@ -14,7 +14,7 @@
 * 有设计与构建分布式系统的经验。
 
 扩展要求:
-* 了解 Prometheus、InfluxDB、Graphite、VictoriaMetrics 或其他 TSDB 系统的设计。
+* 了解 Prometheus、InfluxDB、Graphite、VictoriaMetrics、 M3DB 或其他 TSDB 系统的设计。
 * 有指导初级工程师进行良好工程实践的经验。
 
 我们目前的技术栈是: Prometheus、Thanos、Java、Golang。
