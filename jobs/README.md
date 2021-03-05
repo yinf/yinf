@@ -14,6 +14,7 @@
 * [消息中间件工程师](engineer-message-queue.md)
 * [监控平台前端工程师](frontend-engineer-monitoring.md)
 * [监控平台高级工程师](senior-engineer-monitoring.md)
+* [日志平台高级工程师](senior-engineer-logging.md)
 * [监控平台实习工程师](intern-engineer-monitoring.md)
 * [API 网关高级工程师](senior-engineer-api-gateway.md)
 * [TSDB 高级工程师](senior-engineer-tsdb.md)
