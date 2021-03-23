@@ -6,11 +6,7 @@
 
 # 我们在做哪些事情?
 
-目前团队主要负责以下技术方向:
-* [混合云平台](direction/cloud-native.md)
-* [监控平台](direction/monitoring.md)
-* [微服务工程](direction/microservice.md)
-* [测试工程](direction/testing-engineering.md)
+详见[猿辅导工程](engineering/summary.md);
 
 # 我们现在招聘吗？
 
