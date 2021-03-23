@@ -6,7 +6,7 @@
 
 # 我们在做哪些事情?
 
-[猿辅导工程](engineering/summary.md) 完整地介绍了猿辅导后的整个工程体系。
+[猿辅导工程](engineering/summary.md) 完整地介绍了猿辅导背后的整个工程体系。
 
 # 我们现在招聘吗？
 
