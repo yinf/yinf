@@ -144,6 +144,5 @@
 
 //TBD
 
-## Reference
-* [MySQL]: https://www.mysql.com/
-* [Redis]: https://redis.io
+[MySQL]: https://www.mysql.com/
+[Redis]: https://redis.io
