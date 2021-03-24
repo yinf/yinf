@@ -46,7 +46,7 @@
 
 目前猿辅导有两套注册中心，分别是 [ZooKeeper] 和 [Nacos]。ZooKeeper 是比较早期的技术选型，在经历业务的高速增长后，ZooKeeper 的写能力遇到了瓶颈，因此我们在 2020 年将注册中心替换成了 Nacos 以支持更好的集群扩展。同时我们还自己实现了一套 Naming Agent，代理所有的注册、发现请求，为应用服务屏蔽了 Nacos 的实现细节，为将来更换注册中心预留了接口。
 
-应用服务之间使用 [Thrift] 协议相互进行通信，为了携带 meta 信息，我们使用 [THeaderTransport] 作为 Thrift 传输层协议。
+应用服务之间使用 [Thrift] 协议相互进行通信，为了携带 meta 信息，我们使用 THeaderTransport 作为 Thrift 传输层协议。
 
 #### 任务调度
 
@@ -88,7 +88,7 @@
 
 #### 报警
 
-//TBD (Falcon、夜莺、AlertManager, Cicada)
+//TBD (AlertManager, Cicada)
 
 ### 测试
 
@@ -152,13 +152,19 @@
 
 //TBD
 
-## 总结
-
-//TBD
-
-## 感谢
-
-//TBD
-
-[MySQL]: https://www.mysql.com/
+[MySQL]: https://www.mysql.com
 [Redis]: https://redis.io
+[Kubernetes]: https://kubernetes.io
+[Hbase]: https://hbase.apache.org
+[ElasticSearch]: https://www.elastic.co
+[Memcached]: https://memcached.org
+[ZooKeeper]: https://zookeeper.apache.org
+[Nacos]: https://nacos.io
+[Thrift]: https://thrift.apache.org
+[Docker]: https://www.docker.com
+[xxl-job]: https://www.xuxueli.com/xxl-job
+[RabbitMQ]: https://www.rabbitmq.com
+[Kafka]: https://kafka.apache.org
+[RocketMQ]: https://rocketmq.apache.org
+[Fluentd]: https://www.fluentd.org
+[Nginx]: https://www.nginx.com
