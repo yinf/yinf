@@ -28,7 +28,7 @@
 
 我们的持久化数据存储以关系型存储为主，因此 [MySQL] 是公司内使用范围最广的数据库。我们自己维护了若干个大规模的 MySQL 集群，分布在各个核心机房内。此外，对于一些特殊场合，我们也使用了阿里云的相关关系型存储产品作为补充，包括 [RDS]、[DRDS] 和 [PolarDB]。
 
-在性能要求极高的场景下，我们优先使用 [Redis] 作为分布式内存缓存数据库。和 MySQL 类似，工程团队在每个核心机房内都有自维护的 Redis 集群，大部分自维护的集群都使用 [Sentinel] 作为高可用方案。[阿里云上 Redis 集群]也同时被团队所使用。同时，有部分早期的服务也在使用 [Memcached] 作为分布式内存数据库。
+在性能要求极高的场景下，我们优先使用 [Redis] 作为分布式内存缓存数据库。和 MySQL 类似，工程团队在每个核心机房内都有自维护的 Redis 集群，大部分自维护的集群都使用 Redis Sentinel 作为高可用方案。阿里云上 Redis 集群也同时被团队所使用。同时，有部分早期的服务也在使用 [Memcached] 作为分布式内存数据库。
 
 [Hbase] 和 [ElasticSearch] 在一些 OLAP 场景下也会被使用，例如教研系统的数据分析、用户搜索等等。
 
@@ -80,7 +80,9 @@
 
 #### 指标分析
 
-//TBD (Falcon、夜莺、Prometheus、VictoriaMetrics、Grafana)
+随着业务规模扩大和复杂度逐渐上升，也为了适应基础设施云原生化发展，我们正在将指标体系从 [OpenFalcon] 切换到 [Prometheus]。当前业务可以使用 Prometheus SDK 埋点，通过 PromQL 查询和通过 [Grafana] 可视化自己的业务数据大盘。
+
+同时也因为庞大的业务规模和 Prometheus 的数据模型特点，我们遇到了部分指标维度爆炸的问题，这极大影响了 Prometheus 集群的性能和可用性。我们正在积极尝试 [VictoriaMetrics]、[M3] 等分布式存储方案，也在探索进一步增强 TSDB 的各维度线性拓展的能力。
 
 #### 链路分析
 
@@ -168,3 +170,13 @@
 [RocketMQ]: https://rocketmq.apache.org
 [Fluentd]: https://www.fluentd.org
 [Nginx]: https://www.nginx.com
+[RDS]: https://cn.aliyun.com/product/rds
+[DRDS]: https://cn.aliyun.com/product/drds
+[PolarDB]: https://www.aliyun.com/product/polardb
+[阿里云]: https://www.aliyun.com
+[腾讯云]: https://cloud.tencent.com
+[OpenFalcon]: http://open-falcon.org
+[Prometheus]: https://prometheus.io
+[M3]: https://github.com/m3db/m3
+[VictoriaMetrics]: https://victoriametrics.com
+[Grafana]: https://grafana.com
