@@ -25,6 +25,8 @@
 * [Android 浏览器内核高级开发工程师](engineer-webkit-engineering.md)
 * [Android 开发工程师](engineer-Android.md)
 * [iOS 开发工程师](engineer-iOS.md)
+* [实验平台高级工程师](senior-engineer-experiment.md)
+* [监控平台高级前端工程师](frontend-senior-engineer-monitoring.md)
 
 我们还有一些产品经理岗位:
 * [监控平台高级产品经理](pm-monitoring.md)
