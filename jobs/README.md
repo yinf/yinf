@@ -6,9 +6,8 @@
 
 # 猿辅导基础架构目前开放的岗位
 
-* [系统架构师](architect.md)
+* [工程能效主管](engineering-productive-manager.md)
 * [前端架构工程师](frontend-engineer-architecture.md)
-* [前端工程 Tech Lead](tech-lead-frontend-engineering.md)
 * [工程效率前端工程师](frontend-engineer-engineering.md)
 * [工程效率工程师 / 实习工程师](engineer-engineering.md)
 * [服务治理工程师 / 实习工程师](engineer-service-governance.md)
